@@ -1,0 +1,13 @@
+body{
+    background-image: url(https://images.prd.kavak.io/eyJidWNrZXQiOiJrYXZhay1pbWFnZXMiLCJrZXkiOiJpbWFnZXMvNDM2NDIyL0VYVEVSSU9SLWZyb250U2lkZVBpbG90TmVhci0xNzU0NzY4NDUwMDQ0LmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjU0MCwiaGVpZ2h0IjozMTAsImJhY2tncm91bmQiOnsiciI6MjU1LCJnIjoyNTUsImIiOjI1NSwiYWxwaGEiOjB9fX19) ;
+    background-size: cover;
+    color: white;
+}
+div:hover{
+    transform: scale(100%,150%);
+    color: blue;
+    position: relative; 
+}
+ol{
+    position:absolute;
+}
